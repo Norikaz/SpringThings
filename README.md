@@ -10,4 +10,4 @@ Web server for client to consume and make rest API calls for manga reviews
 
 # API Diagram
   
-[Reviews API.pdf](https://github.com/Norikaz/SpringThings/files/13541333/Reviews.API.pdf)
+![Screen Shot 2023-12-03 at 9 32 18 PM](https://github.com/Norikaz/SpringThings/assets/53831591/97a37f70-46b5-489b-b301-4393a729bb14)
